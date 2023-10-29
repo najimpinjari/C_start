@@ -84,19 +84,6 @@ namespace _4_StringType
             Console.WriteLine(i + j);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
             // string interpolation
             fullName = $"Full Name : {firstName} {middleName}\t, {lastName}";
             Console.WriteLine(fullName);
